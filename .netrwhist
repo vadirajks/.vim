@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/media/vadiraj/movies'
+let g:netrw_dirhist_2='/home/vadiraj/revx-git/github-backups/rtb/adapter-cache'
+let g:netrw_dirhist_3='/opt/gradle-1.0-rc-3/samples/userguide/organizeBuildLogic/injected'
+let g:netrw_dirhist_4='/tmp'
+let g:netrw_dirhist_5='/etc'
+let g:netrw_dirhist_6='/usr/local/share/vim/vim80/indent'
